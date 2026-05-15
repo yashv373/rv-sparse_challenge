@@ -14,7 +14,7 @@ No `malloc` or `free` is used inside the function — all memory is provided by 
 ## How to build and run
 
 ```bash
-gcc -o run challenge.c -lm
+gcc -o run code.c -lm
 ./run
 ```
 
